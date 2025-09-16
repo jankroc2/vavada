@@ -1,0 +1,1 @@
+document.querySelector(".articles-header-wrapper").addEventListener("click",function(){let e=document.querySelector(".articles-items-wrapper"),r=document.querySelector(".articles-header-wrapper img");e.classList.toggle("open"),r.classList.toggle("open")});
