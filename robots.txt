@@ -4,4 +4,5 @@ Disallow: /login/
 Disallow: /tmp/
 Allow: /
 
-Sitemap: https://vavada-delta.vercel.app/sitemap.xml
+Sitemap: https://exbeit.com/sitemap.xml
+
