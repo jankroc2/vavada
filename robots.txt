@@ -1,8 +1,4 @@
 User-agent: *
-Disallow: /admin/
-Disallow: /login/
-Disallow: /tmp/
 Allow: /
 
 Sitemap: https://exbeit.com/sitemap.xml
-
