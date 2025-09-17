@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://exbeit.com/sitemap.xml
+Sitemap: https://www.exbeit.com/sitemap.xml
