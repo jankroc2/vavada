@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.exbeit.com/sitemap.xml
+Sitemap: https://www.vavada-vip.com/sitemap.xml
+
