@@ -1,0 +1,6 @@
+# llms.txt — инструкции для AI-поисковиков
+# Подробнее: https://llmstxt.org
+
+Allow: /
+Homepage: https://www.vavada-vip.com/
+Sitemap: https://www.vavada-vip.com/sitemap.xml
